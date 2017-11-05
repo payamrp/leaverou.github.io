@@ -3,6 +3,41 @@
 		{
 			"talk": [
 				{
+					"title": "سموبار",
+					"type": "Keynote"
+				}
+			],
+			"url": "semobar.ir",
+			"name": "باربری آنلاین",
+			"city": "ایران",
+			"comment": "حمل و نقل | باربری| باربری آنلاین"
+		},
+		{
+			"talk": [
+				{
+					"title": "برنامه نویسی اپلیکیشن",
+					"type": "Keynote"
+				}
+			],
+			"url": "tabaneshahr.com",
+			"name": "برنامه نویسی اپلیکیشن",
+			"city": "تهران",
+			"comment": "طراحی وب سایت | برنامه نویسی اپلیکیشن"
+		},
+		{
+			"talk": [
+				{
+					"title": "دوربین مدار بسته",
+					"type": "Keynote"
+				}
+			],
+			"url": "http://www.nikahd24.com/",
+			"name": "دوربین مداربسته",
+			"city": "تهران"
+		},
+		{
+			"talk": [
+				{
 					"title": "JS UX: Writing code for humans",
 					"type": "Talk"
 				}
